@@ -104,5 +104,3 @@ Thank you for visiting my profile, and I look forward to connecting with you!
 
 
 
-[here]: https://kogutstt2.github.io/portfolio/
-![Uploading image.png…]()
