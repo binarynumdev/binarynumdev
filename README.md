@@ -1,5 +1,4 @@
-# 👋 Hello, I'm Wolfgang 
-
+# 👋 Hello
 Welcome to my GitHub profile!
 I am an innovative and experienced full-stack developer. I'm committed to crafting elegant solutions and building high-quality applications that deliver exceptional user experiences.
 
