@@ -5,7 +5,7 @@ I am an innovative and experienced full-stack developer. I'm committed to crafti
 ## 🚀 Mail Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,java,kotlin,swift,react,dart,flutter,python,django,php,laravel,nodejs,golang,figma,ai&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=angular,java,kotlin,swift,react,dart,flutter,kotlin,python,django,php,laravel,nodejs,golang,figma,ai&theme=light"/>
   <!-- Add more skill icons here -->
 </p>
 
